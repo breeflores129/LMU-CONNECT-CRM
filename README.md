@@ -24,7 +24,7 @@ Implement a Salesforce CRM data pipeline to bridge the gap between current ISBA 
 Plan to collect data alumni data from multiple sources in combination with current ISBA student data and implement it all into a Salesforce CRM to facilitate seamless connections.
 
 ### Tech Stack:
-Programming Languages: (e.g., Python, SQL)
+Programming Languages: (e.g., Python, SQL) /
 Data Storage: (e.g., MySQL)
 Software/Tools: (e.g., Excel, DBeaver)
 Hosting: Cloud/on-premise (e.g., AWS, Azure)
