@@ -40,3 +40,4 @@ Origionally had trouble cretaing the correct Salesforce account but was able to 
 I also faced a challenge accessing the CRM database. I contacted ITS about lmu.build.
 ### New Skills
 The Salesforce module taught me the way around the website and the different projects taht you can create. 
+<img width="321" alt="Salesforce completed module" src="https://github.com/user-attachments/assets/33ba2f05-9875-4208-be3e-d3589201f65b">
