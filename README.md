@@ -1,6 +1,6 @@
-### LMU-CONNECT-CRM
+# LMU-CONNECT-CRM
 
-# Project Overview 
+## Project Overview 
 Implement a Salesforce CRM data pipeline to bridge the gap between current ISBA students and alumni, with an emphasis on retrieving pre-2018 alumni data, for enhanced career support and networking.
 
 # Problem Statement 
@@ -11,8 +11,10 @@ Implement a Salesforce CRM data pipeline to bridge the gap between current ISBA 
 # ISBA Subfields
 ISBA Students 
 - Willing and eager to form conenctions with alumni
+
 ISBA/AIMS/ISQM ALumni
-- Must stay connected with LMU and actively seek opportunities for current students 
+- Must stay connected with LMU and actively seek opportunities for current students
+
 ISBA Faculty
 - Create mentorship programs, events and workshops to introduce current students to alumni
   
