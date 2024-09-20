@@ -18,7 +18,7 @@ Implement a Salesforce CRM data pipeline to bridge the gap between current ISBA 
 ### ISBA Faculty
 - Create mentorship programs, events and workshops to introduce current students to alumni
 
-<img width="797" alt="Screenshot 2024-09-20 at 9 45 21 AM" src="https://github.com/user-attachments/assets/2d96431f-6eb0-483d-9321-37a2fd553d25">
+<img width="700" alt="Screenshot 2024-09-20 at 9 45 21 AM" src="https://github.com/user-attachments/assets/2d96431f-6eb0-483d-9321-37a2fd553d25">
 
 ## Solution Overview
 Plan to collect data alumni data from multiple sources in combination with current ISBA student data and implement it all into a Salesforce CRM to facilitate seamless connections.
