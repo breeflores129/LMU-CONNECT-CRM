@@ -26,7 +26,7 @@ Plan to collect data alumni data from multiple sources in combination with curre
 ### Tech Stack:
 - Programming Languages: (e.g., Python, SQL) 
 - Data Storage: (e.g., MySQL)
-- Software/Tools: (e.g., Excel, DBeaver)
+- Software/Tools: (e.g., Excel, DBeaver, MySQLWorkbench)
 - Hosting: Cloud/on-premise (e.g., AWS, Azure)
 - Data: Alumni and current student contacts (LinkedIn, LMU records)
 
@@ -38,8 +38,9 @@ Need to improve on time management and efficiently using the correct resources t
 
 ## Retrospective
 ### Challenges 
-Origionally had trouble cretaing the correct Salesforce account but was able to create a new one with my LMU email.
-I also faced a challenge accessing the CRM database. I contacted ITS about lmu.build.
+Currently attempting to connect and set up database to be able to create joins in CRM database.
 ### New Skills
-The Salesforce module taught me the way around the website and the different projects taht you can create. 
+- The Salesforce module taught me the way around the website and the different projects taht you can create. 
 <img width="321" alt="Salesforce completed module" src="https://github.com/user-attachments/assets/33ba2f05-9875-4208-be3e-d3589201f65b">
+- Created a custom object with custom fields in Salesforce.
+- Learned how to convert a sql file to a csv file using a python script.
