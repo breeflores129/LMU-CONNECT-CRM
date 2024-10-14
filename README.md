@@ -44,3 +44,23 @@ Currently attempting to connect and set up database to be able to create joins i
 <img width="321" alt="Salesforce completed module" src="https://github.com/user-attachments/assets/33ba2f05-9875-4208-be3e-d3589201f65b">
 - Created a custom object with custom fields in Salesforce.
 - Learned how to convert a sql file to a csv file using a python script.
+
+## Tasks and Accomplishments
+### Sprint 01
+Created this Github repository
+Get current ISBA senior and MSBA students
+Was unsuccesful getting access to CRM database
+Identified and completed a Salesforce Trail module
+Identified alumni data source as LinkedIn
+Subscribed to a Salesforce Education Plan
+
+### Sprint 02
+Received access to CRM database backup
+Insert sample alumni CSV data into Salesforce
+
+### Sprint 03 *in progress* 
+Create AWS Database
+Get LMU ISQM/AIMS/ISBA alumni before 2018 from LinkedIn
+Create a Salesforce data model
+[BF - Sprint03 Flowchart .pdf](https://github.com/user-attachments/files/17369309/BF.-.Sprint03.Flowchart.pdf)
+
