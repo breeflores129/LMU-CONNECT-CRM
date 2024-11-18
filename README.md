@@ -60,6 +60,22 @@ Currently attempting to connect and set up database to be able to create joins i
 - Converted CRM backup sql file to a csv file with a python script
 - Inserted csv file into Salesforce through their data import wizard and created a custom object with custom fields
 
-### Sprint 03 (*in progress*)
+### Sprint 03
 [BF - Sprint03 Flowchart](https://github.com/user-attachments/files/17369309/BF.-.Sprint03.Flowchart.pdf)
+- Manually combined csv files to create one master file
+- Conducted another round a data cleaning 
+- Imported data as a dataset 
+- Created views of different filter selections
+
+### Sprint 4
+- Documented how to manually update work experience
+- Generated raw and aggregate reports for differenet job status and graduates
+
+## Outstanding Issues & Next Steps
+#### Outstanding Issues:
+- How to import data into SalesForce as contacts so we can leverage CRM functinoality
+
+#### Next Steps:
+- Different SalesForce subscription
+
 
