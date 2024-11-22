@@ -69,7 +69,7 @@ Currently attempting to connect and set up database to be able to create joins i
 - Created views of different filter selections
 
 ### Sprint 4
--  Documented how to manually update work experience [Documentation]([[/Users/breeflores/Downloads/Capstone%20Documentation.pdf](https://docs.google.com/document/d/13PQ9ScZ8nLqJVPNN2DpPETCoRS0pXPu0lO8jYQef--U/edit?usp=sharing)](https://github.com/breeflores129/LMU-CONNECT-CRM/blob/main/Capstone%20Documentation.pdf))
+-  Documented how to manually update work experience [Documentation](https://github.com/breeflores129/LMU-CONNECT-CRM/blob/main/Capstone%20Documentation.pdf)
 - Generated raw and aggregate reports for differenet job status and graduates
 
 ## Outstanding Issues & Next Steps
