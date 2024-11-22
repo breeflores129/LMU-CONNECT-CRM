@@ -69,7 +69,7 @@ Currently attempting to connect and set up database to be able to create joins i
 - Created views of different filter selections
 
 ### Sprint 4
--  (change link) Documented how to manually update work experience [Documentation](https://github.com/user-attachments/files/17369309/BF.-.Sprint03.Flowchart.pdf)
+-  Documented how to manually update work experience [Documentation](/Users/breeflores/Downloads/Capstone%20Documentation.pdf)
 - Generated raw and aggregate reports for differenet job status and graduates
 
 ## Outstanding Issues & Next Steps
