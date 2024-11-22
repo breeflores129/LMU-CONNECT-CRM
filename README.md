@@ -73,10 +73,18 @@ Currently attempting to connect and set up database to be able to create joins i
 - Generated raw and aggregate reports for differenet job status and graduates
 
 ## Outstanding Issues & Next Steps
+#### What did not work in Salesforce
+- Creating a custom data model and importing the data into custom fields with the Data Import Wizard
+- Importing data directly into contacts because I needed to force data into inaccurate fields
+  
 #### Outstanding Issues:
-- How to import data into SalesForce as contacts so we can leverage CRM functinoality
+- How to import data into SalesForce as contacts so we can leverage CRM functionality
 
 #### Next Steps:
-- Different SalesForce subscription
+- Find a way to use custom fields when importing data directly into contacts
+- View data when uploaded with DataImport Wizard with different list views
+- Make all alumni information automated and updatable from CRM
+- Rely on another source besides LinkedIn or utilize webscraping and APIs
+- Possibly a different SalesForce subscription
 
 
