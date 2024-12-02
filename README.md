@@ -42,7 +42,7 @@ Plan to collect alumni data from multiple sources, in combination with current I
 ## Solution Details
 1. Manually collected data of pre-2018 ISBA alumni.
 2. Cleaned data.
-3. Ran necessary queries in DBeaver to retrieve correct and current data from the SQL file containing post-2018 alumni.
+3. Ran necessary queries in DBeaver to retrieve correct and current data from the SQL file containing post-2018 alumni [Sql file]().
 4. Set up dataset in **Data Manager** in Salesforce.
 5. Ingested the data from the CSV file into Salesforce.
 6. Used the Data Manager interface to filter the data.
