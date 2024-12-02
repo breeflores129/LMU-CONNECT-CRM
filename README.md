@@ -87,4 +87,13 @@ Currently attempting to connect and set up database to be able to create joins i
 - Rely on another source besides LinkedIn or utilize webscraping and APIs
 - Possibly a different SalesForce subscription
 
+## Login Information
+### Database
+- database: isba_crm
+- username: bree_flores
+- host: db.isba.co
+ 
+### Salesforce 
+- Link: https://lmu2.my.salesforce.com/?ec=302&startURL=%2Fvisualforce%2Fsession%3Furl%3Dhttps%253A%252F%252Flmu2.lightning.force.com%252Flightning%252Fpage%252Fhome
+- Username: greg.lontok-q7va@force.com
 
