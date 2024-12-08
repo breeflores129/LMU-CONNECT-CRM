@@ -93,6 +93,7 @@ Plan to collect alumni data from multiple sources, in combination with current I
 - Created filtered views of different data selections.
 
 ### Sprint 04
+- Created a dataset with alumni data in Salesforce
 - Documented how to manually update work experience: [Documentation](https://github.com/breeflores129/LMU-CONNECT-CRM/blob/main/Capstone%20Documentation.pdf).  
 - Generated raw and aggregate reports for different job statuses and graduates.
 
